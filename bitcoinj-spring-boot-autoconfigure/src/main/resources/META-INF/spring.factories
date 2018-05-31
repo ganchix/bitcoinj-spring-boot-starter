@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.ganchix.bitcoinj.configuration.BitcoinJAutoConfiguration
