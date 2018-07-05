@@ -22,7 +22,7 @@ This implementation offers a way to use [BitcoinJ Rpc Client](https://github.com
 <dependency>
     <groupId>io.github.ganchix</groupId>
     <artifactId>bitcoinj-spring-boot-starter</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1</version>
 </dependency>
 
 ```
